@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **DevOps**
 
-- 👨‍💻 All of my projects are available at [haliltek.com](haliltek.com)
+- 👨‍💻 All of my projects are available at [haliltek.com](halil.tech)
 
 - 💬 Ask me about **php,react**
 
